@@ -1,7 +1,8 @@
 {
+  "expiry": "2025-08-25T16:00:00Z",
   "messages": [
-    "GH Welcome to our site",
-    "GH Check our latest updates",
-    "GH System running normally"
+    "GH Welcome to our site 2",
+    "GH Check our latest updates 2",
+    "GH System running normally 2"
   ]
 }
